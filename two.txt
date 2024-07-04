@@ -1,3 +1,4 @@
+the first line on two.txt will be pushed as git push origin master
 what ever
 line is extented locally this is file two.txt
 one more line
