@@ -1,0 +1,3 @@
+cheer say
+first line before staging
+second line after staging
